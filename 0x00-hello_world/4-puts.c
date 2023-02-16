@@ -1,7 +1,8 @@
-#include < stdio.h>
+#include <stdio.h>
 /**
- * main - print that programs puts function
- * Return: 0 (Suceess)
+ * main - A C program that prints exact text
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
